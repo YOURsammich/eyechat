@@ -1,0 +1,29 @@
+{
+  "name": "eyechat",
+  "version": "0.0.0",
+  "description": "A chatroom",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/YOURsammich/eyechat.git"
+  },
+  "keywords": [
+    "chat"
+  ],
+  "author": "Wyatt Salisbury",
+  "license": "GPL-3.0-or-later",
+  "bugs": {
+    "url": "https://github.com/YOURsammich/eyechat/issues"
+  },
+  "homepage": "https://github.com/YOURsammich/eyechat#readme",
+  "type": "module",
+  "dependencies": {
+    "esbuild": "0.17.10",
+    "express": "^4.18.2",
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0"
+  }
+}
